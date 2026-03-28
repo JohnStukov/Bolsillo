@@ -1,5 +1,7 @@
 # 💰 Bolsillo App - Gestión Inteligente de Finanzas
 
+**Español** | [**English**](README.md)
+
 Bolsillo es una aplicación móvil diseñada para ofrecer un control total y simplificado de las finanzas personales. A diferencia de otras aplicaciones, Bolsillo integra la potencia de la **Inteligencia Artificial (Google Gemini)** para automatizar la entrada de datos a través de la cámara, permitiendo que gestionar tus gastos sea una tarea de segundos.
 
 <p align="center">

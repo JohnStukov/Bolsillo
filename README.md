@@ -1,5 +1,7 @@
 # 💰 Bolsillo App - Smart Finance Management
 
+[**Español**](README.es.md) | **English**
+
 Bolsillo is a mobile application designed to offer total and simplified control of personal finances. Unlike other apps, Bolsillo integrates the power of **Artificial Intelligence (Google Gemini)** to automate data entry through the camera, making managing your expenses a matter of seconds.
 
 <p align="center">
